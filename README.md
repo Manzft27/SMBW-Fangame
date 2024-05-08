@@ -1,5 +1,10 @@
 Hi, I'm @Manzft27, i'm a little youtuber and game programmer.
 I'm 16, and i'm making a lot of projects in Godot.
+
+This is a project trying to recreate a bit of Super Mario Bros Wonder, but in godot.
+
+If you wanna play this fangame or modify the code you are welcome!
+
 Hope you like my work ^^.
 
 <!---
